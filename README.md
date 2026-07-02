@@ -1,4 +1,4 @@
-# 🚀 TensorFlow Zero to Hero
+# 🚀 TensorFlow HANDSON-ML-V3
 
 ![Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3nd Edition](cover_img/image.png)
 
