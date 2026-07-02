@@ -60,10 +60,6 @@ TensorFlow-Zero-to-Hero/
 
 ---
 
-## 🔥 Daily Learning Streak
-
----
-
 ## 🛠 Tech Stack
 
 * Python
