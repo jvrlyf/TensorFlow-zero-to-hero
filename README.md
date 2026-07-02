@@ -2,7 +2,7 @@
 
 ![Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3nd Edition](cover_img/image.png)
 
-A structured learning journey through **Part II: Neural Networks and Deep Learning** from *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow* by Aurélien Géron.
+A structured learning journey through **Part II: Neural Networks and Deep Learning** from *[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3nd Edition](https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/9355421982)* by Aurélien Géron.
 
 This repository contains chapter-wise notes, code examples, experiments, exercises, and mini-projects completed while studying TensorFlow, Keras, Deep Learning, Computer Vision, NLP, GANs, Reinforcement Learning, and Model Deployment.
 
